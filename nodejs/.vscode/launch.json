@@ -15,7 +15,9 @@
       ],
       "args": [
         "-sb"
-      ]
+      ],
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "openOnSessionStart"
     },
     {
       "type": "node",
